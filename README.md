@@ -3,7 +3,7 @@
 This is Calendar program created by me.
 
 Credit(s): 
-Calendar template - jCalendar by Toedter.
+- Calendar template - jCalendar by Toedter.
 
 Patch Notes:
 
