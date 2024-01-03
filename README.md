@@ -7,6 +7,9 @@ Calendar template - jCalendar by Toedter.
 
 Update Notes:
 
+v004> 1-2-2024
+-Fixed error where notes was combined with timer causing error on loading timer
+
 v003> 1-2-2024
 -Added note and datastore for day planner
 
