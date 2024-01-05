@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a Calendar program created by me. The goal is to create an advance Calendar system implemented with the use of Toedter's jCalendar.
+This is a Calendar program created by me. The goal is to create an advance time/date system implemented with the use of Toedter's jCalendar.
 
 Credit(s): Calendar template - jCalendar by Toedter.
 
