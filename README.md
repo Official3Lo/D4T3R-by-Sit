@@ -19,4 +19,4 @@ v001> 12-19-2023
 - Added timer function start/stop
 
 
-(NOTE: This is also a showcase of me trying to learn how to learn & use the time imports, functions and libraries.)
+(NOTE: This is also a showcase of me learning how to use the time imports, functions and libraries.)
