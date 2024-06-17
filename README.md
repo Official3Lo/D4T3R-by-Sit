@@ -2,7 +2,7 @@
 
 This is a project I had started at the end of my Java class from FCC CIT63 during Fall 2023. This is a simple Calendar program created for the sole purpose of making sure you can keep track of your future schedule and timing. The goal is to create an advance time/date system implemented with the use of Toedter's jCalendar.
 
-Language: Java
+Language: Java 
 Credit(s): Calendar template - jCalendar by Toedter.
 
 Patch Notes:
