@@ -4,6 +4,8 @@ This is a project I had started at the end of my Java class from FCC CIT63 durin
 
 Language: Java | Program template: jCalendar by Toedter.
 
+How to use - Extract rar file into IDE Project folder
+
 Patch Notes:
 
 v004> 1-2-2024
